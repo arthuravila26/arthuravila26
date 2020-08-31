@@ -12,4 +12,4 @@ Currently working as a Junior Python Developer and graduating in Information Sys
 
 > Linkedin: [Arthur Avila](https://www.linkedin.com/in/arthur-%C3%A1vila-502bb889/)
 
-<p align="left"> <img shttps://komarev.com/ghpvcrc="/?username=arthuravila26&color=green" alt="arthuravila" /> </p>
+![Arthur's GitHub Stats](https://komarev.com/ghpvcrc/?username=arthuravila26&color=green)
