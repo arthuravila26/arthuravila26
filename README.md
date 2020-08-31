@@ -5,7 +5,7 @@ Currently working as a Junior Python Developer and graduating in Information Sys
 
 
 - Looking for improve my Python skills helping and practicing in Open Source projects	:snake:
-- Passionate DevOps Culture :robot:
+- Passionate about DevOps Culture :robot:
 - Always reading and practicing about Docker :whale:, Kubernetes :octopus: and Linux :penguin:
 - Currently working as a Junior Python Programmer :man_technologist:
 - Dreaming in be a Cloud Computing Engineer in the future :star_struck:
