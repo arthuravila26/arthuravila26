@@ -11,3 +11,5 @@ Currently working as a Junior Python Developer and graduating in Information Sys
 - Dreaming in be a Cloud Computing Engineer in the future :star_struck:
 
 > Linkedin: [Arthur Avila](https://www.linkedin.com/in/arthur-%C3%A1vila-502bb889/)
+
+<p align="left"> <img shttps://komarev.com/ghpvcrc="/?username=arthuravila26&color=green" alt="arthuravila" /> </p>
