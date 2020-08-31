@@ -12,4 +12,4 @@ Currently working as a Junior Python Developer and graduating in Information Sys
 
 > Linkedin: [Arthur Avila](https://www.linkedin.com/in/arthur-%C3%A1vila-502bb889/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=arthuravila26&show_icons=true" alt="arthuravila" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=arthuravila26&show_icons=true&color=green)" alt="arthuravila" /> </p>
