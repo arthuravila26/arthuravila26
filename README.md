@@ -1,7 +1,7 @@
 # Hi, I'm Arthur :sunglasses:
 
 I'm a guy who loves tech things and is always learning new things! Working with IT a little more than 1 year and about 7 months as a Developer.
-Currently working as a Junior Python Developer and graduating in Information Systems. Really interested in help and receive help as well. Get small open source projects for improve would be awsome for me! I'm really passionated by helping the community at all.
+Currently working as a Junior Python Developer and graduating in Information Systems. Really interested in help and receive help as well. Get small open source projects for improve would be awesome for me! I'm really passionated by helping the community at all.
 
 
 - Looking for improve my Python skills helping and practicing in Open Source projects	:snake:
