@@ -7,7 +7,7 @@ Currently working as a Junior Python Developer and graduating in Information Sys
 - Looking for improve my Python and Go skills helping and practicing in Open Source projects	:snake:
 - Passionate about DevOps Culture :robot:
 - Always reading and practicing about Docker :whale:, Kubernetes :octopus: and Linux :penguin:
-- Currently working as a Junior Python Programmer :man_technologist:
+- Currently working as a Junior DevOps :man_technologist:
 - Dreaming in be a Cloud Computing Engineer in the future :star_struck:
 
 > Linkedin: [Arthur Avila](https://www.linkedin.com/in/arthur-%C3%A1vila-502bb889/)
