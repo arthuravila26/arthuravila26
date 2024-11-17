@@ -1,6 +1,6 @@
 # Hi, I'm Arthur :sunglasses:
 
-I'm a guy who loves tech things and is always learning new things! Working with IT a little more than 4 as a Developer/DevOps.
+I'm a guy who loves tech things and is always learning new things! Working with IT a little more than 5 as a Developer/DevOps.
 Currently working as a Python Developer and graduated in Information Systems. Really interested in help and receive help as well. Get small open source projects for improve would be awesome for me! I'm really passionated by helping the community at all.
 
 
