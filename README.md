@@ -7,8 +7,7 @@ Currently working as a Python Developer and graduated in Information Systems. Re
 - Looking for improve my Python and Go skills helping and practicing in Open Source projects	:snake:
 - Passionate about DevOps Culture :robot:
 - Always reading and practicing about Docker :whale:, Kubernetes :octopus: and Linux :penguin:
-- Currently working as a Junior DevOps :man_technologist:
-- Dreaming in be a Cloud Computing Engineer in the future :star_struck:
+- Currently working as a Mid-Level Developer :man_technologist:
 
 > Linkedin: [Arthur Avila](https://www.linkedin.com/in/arthur-%C3%A1vila-502bb889/)
 
